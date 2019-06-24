@@ -5,6 +5,8 @@ This repository contains the source files of the **flightgear-belgian-custom-sce
 
 This repository is not for the average user but is destinated to all peoples who want to collaborate on the Belgian FlightGear Flight Simulator Scenery.
 
+You can find more information on the dedicated wiki page: https://github.com/dvanmosselbeen/flightgear-belgian-custom-scenery-src/wiki
+
 # HOWTO USE OUR REPO AND GIT
 
 Clone our repository on GitHub.com to our machine locally
