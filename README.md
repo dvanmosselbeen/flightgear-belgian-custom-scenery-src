@@ -25,8 +25,8 @@ We only used open source software and resources to create this scenery.
 
 # HOWTO USE OUR REPO AND GIT
 
-Clone our repository on GitHub.com to our machine locally <pre>git clone
-https://github.com/dvanmosselbeen/flightgear-belgian-custom-scenery-src.git</pre>
+Clone our repository on GitHub.com to our machine locally:
+<pre>git clone https://github.com/dvanmosselbeen/flightgear-belgian-custom-scenery-src.git</pre>
 
 Change into the "flightgear-belgian-custom-scenery-src" directory:
 <pre>cd flightgear-belgian-custom-scenery-src</pre>
