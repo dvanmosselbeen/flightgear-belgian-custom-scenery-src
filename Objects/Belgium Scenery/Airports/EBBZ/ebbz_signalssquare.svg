@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="ebbz_signalssquare.svg"
+   inkscape:export-filename="Z:\GFX\blender\fgfs\sources_sceneries\belgium\_airports\EBBZ\ebbz_signalssquare.png"
+   inkscape:export-xdpi="22.5"
+   inkscape:export-ydpi="22.5">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.32177734"
+     inkscape:cx="256"
+     inkscape:cy="321.47999"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="848"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36218)">
+    <rect
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#ececec;stroke-width:19.79023361;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2985"
+       width="492.20975"
+       height="492.20978"
+       x="9.8951168"
+       y="550.25726" />
+    <rect
+       style="fill:#a02c2c;fill-opacity:1;stroke:none"
+       id="rect3755"
+       width="160"
+       height="160"
+       x="332"
+       y="871.36218" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+       id="rect3757"
+       width="33"
+       height="252.80402"
+       x="69.493172"
+       y="738.94214" />
+    <rect
+       y="609.21503"
+       x="389.49316"
+       height="220"
+       width="33"
+       id="rect3759"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
+    <g
+       id="g3767"
+       transform="matrix(0.89243564,-0.85536986,0.89243564,0.85536986,-354.03434,506.02837)">
+      <path
+         inkscape:transform-center-x="-9.3678669"
+         inkscape:transform-center-y="-10.817077"
+         transform="matrix(0.12043626,0.20860172,-0.20860172,0.12043626,176.95247,604.20859)"
+         d="m 19.37872,95.48582 -38.891384,-67.361863 77.782772,5e-6 77.782772,6e-6 -38.891386,67.361854 -38.891393,67.361858 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="3.6651915"
+         sodipodi:arg1="2.6179939"
+         sodipodi:r2="89.815811"
+         sodipodi:r1="44.907906"
+         sodipodi:cy="73.031868"
+         sodipodi:cx="58.270107"
+         sodipodi:sides="3"
+         id="path3761"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+         sodipodi:type="star" />
+      <path
+         sodipodi:type="star"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+         id="path3763"
+         sodipodi:sides="3"
+         sodipodi:cx="58.270107"
+         sodipodi:cy="73.031868"
+         sodipodi:r1="44.907906"
+         sodipodi:r2="89.815811"
+         sodipodi:arg1="2.6179939"
+         sodipodi:arg2="3.6651915"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 19.37872,95.48582 -38.891384,-67.361863 77.782772,5e-6 77.782772,6e-6 -38.891386,67.361854 -38.891393,67.361858 z"
+         transform="matrix(0.24087252,0,0,0.24087252,154.70006,742.15961)"
+         inkscape:transform-center-y="-5.4085375" />
+      <rect
+         y="635.53674"
+         x="150"
+         height="113.70715"
+         width="37.471001"
+         id="rect3765"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>
