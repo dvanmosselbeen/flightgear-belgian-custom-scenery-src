@@ -2,16 +2,14 @@
 Welcome to this repository :)
 
 This repository contains the source files of the
-**flightgear-belgian-custom-scenery** repository [1]. This include all the
+**[flightgear-belgian-custom-scenery repository](https://github.com/dvanmosselbeen/flightgear-belgian-custom-scenery)**. This include all the
 Blend and all source files which helped to created the FGFS Belgium scenery.
 
 This repository is not for the average user but is destinated to all peoples
-who want to collaborate on the Belgian FlightGear Flight Simulator Scenery.
+who want to contribute on the Belgian FlightGear Flight Simulator Scenery.
 
-You can find more information on the dedicated wiki page:
+You can find more information on the dedicated wiki page for the "source" version. This is another wiki than the one for the scenery itself:
 https://github.com/dvanmosselbeen/flightgear-belgian-custom-scenery-src/wiki
-
-[1] https://github.com/dvanmosselbeen/flightgear-belgian-custom-scenery
 
 # APPLICATIONS USED TO CREATE THIS SCENERY
 
