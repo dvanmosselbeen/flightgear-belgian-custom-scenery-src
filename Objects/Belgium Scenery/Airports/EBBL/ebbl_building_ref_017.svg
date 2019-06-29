@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="1024"
+   height="512"
+   sodipodi:docname="ebbl_building_ref_017.svg"
+   inkscape:export-filename="Z:\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebbl\ebbl_building_ref_017.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="498.07505"
+     inkscape:cy="201.68832"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer5" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="BG"
+     transform="translate(0,-512)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3008"
+       width="1024"
+       height="512"
+       x="0"
+       y="512" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="TB"
+     style="display:inline"
+     transform="translate(0,-512)"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="H:\_From_BCK_copy\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebbl\ebbl_building_ref_017_TB.png"
+       xlink:href="ebbl_building_ref_017_TB.png"
+       width="1024"
+       height="512"
+       id="image2995"
+       x="0"
+       y="512" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="TB2">
+    <image
+       sodipodi:absref="H:\_From_BCK_copy\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebbl\ebbl_building_ref_017_TB2.png"
+       xlink:href="ebbl_building_ref_017_TB2.png"
+       inkscape:export-ydpi="45"
+       inkscape:export-xdpi="45"
+       width="1024"
+       height="512"
+       id="image3796"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="AO"
+     transform="translate(0,-512)"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="H:\_From_BCK_copy\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebbl\ebbl_building_ref_017_AO.png"
+       xlink:href="ebbl_building_ref_017_AO.png"
+       width="1024"
+       height="512"
+       id="image3006"
+       x="0"
+       y="512" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Drawing"
+     style="display:inline">
+    <rect
+       style="fill:#502d16;fill-opacity:1;stroke:none"
+       id="rect3010"
+       width="30"
+       height="110"
+       x="872.19678"
+       y="104.39194" />
+    <rect
+       y="84.391937"
+       x="872.19678"
+       height="20"
+       width="30"
+       id="rect3012"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2990"
+       width="18"
+       height="18"
+       x="519.5932"
+       y="298.74576" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="679.2547"
+       y="240.64403"
+       id="text2992"
+       transform="scale(0.76751342,1.3029088)"><tspan
+         sodipodi:role="line"
+         id="tspan2994"
+         x="679.2547"
+         y="240.64403"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:13.21443272px;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start">36</tspan></text>
+    <rect
+       y="298.74576"
+       x="391.5932"
+       height="22"
+       width="18"
+       id="rect2996"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="393.52542"
+       y="319.05084"
+       id="text2998"><tspan
+         sodipodi:role="line"
+         id="tspan3000"
+         x="393.52542"
+         y="319.05084"
+         style="font-size:6px;line-height:1.25">WTF</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect3772"
+       width="8.5423727"
+       height="10.305085"
+       x="398.37286"
+       y="302.10172" />
+    <ellipse
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       id="path3770"
+       transform="matrix(0.7027027,0,0,1,114.80715,-1.8983051)"
+       cx="401.22034"
+       cy="307.18643"
+       rx="5.0169492"
+       ry="4.9491525" />
+    <path
+       sodipodi:type="inkscape:offset"
+       inkscape:radius="-1.6441349"
+       inkscape:original="M 396.75 300.34375 C 394.80296 300.34375 393.21875 302.54791 393.21875 305.28125 C 393.21875 308.01459 394.80296 310.25 396.75 310.25 C 397.33988 310.25 397.88644 310.01579 398.375 309.65625 L 398.375 312.40625 L 406.90625 312.40625 L 406.90625 302.09375 L 399.40625 302.09375 C 398.75964 301.03182 397.82316 300.34375 396.75 300.34375 z "
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       id="path3785"
+       d="m 396.75,301.98828 c -0.3531,0 -0.74942,0.18516 -1.1582,0.75586 -0.40878,0.5707 -0.72852,1.48808 -0.72852,2.53711 0,1.04903 0.32067,1.97676 0.73242,2.55664 0.41176,0.57988 0.80999,0.76758 1.1543,0.76758 0.15468,0 0.35877,-0.0588 0.65039,-0.27344 a 1.6442993,1.6442993 0 0 1 2.61914,1.32422 v 1.10547 h 5.24219 v -7.02344 h -5.85547 a 1.6442993,1.6442993 0 0 1 -1.4043,-0.78906 c -0.44394,-0.7291 -0.88156,-0.96094 -1.25195,-0.96094 z" />
+  </g>
+</svg>

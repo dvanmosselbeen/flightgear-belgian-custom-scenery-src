@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="1024"
+   height="1024"
+   sodipodi:docname="ebbl_little_ct.svg"
+   inkscape:export-filename="Z:\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebbl\ebbl_little_ct.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.65186406"
+     inkscape:cx="203.37351"
+     inkscape:cy="439.63106"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="BG"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3008"
+       width="1024"
+       height="1024"
+       x="0"
+       y="3.0517578e-005" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="TB"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="H:\_From_BCK_copy\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebbl\ebbl_ittle_ct_TB.png"
+       xlink:href="ebbl_ittle_ct_TB.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="1024"
+       width="1024" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="AO"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="H:\_From_BCK_copy\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebbl\ebbl_ittle_ct_AO.png"
+       xlink:href="ebbl_ittle_ct_AO.png"
+       width="1024"
+       height="1024"
+       id="image3018"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Drawing"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect3022"
+       width="64.430611"
+       height="179.48528"
+       x="446.41208"
+       y="829.17413" />
+  </g>
+</svg>

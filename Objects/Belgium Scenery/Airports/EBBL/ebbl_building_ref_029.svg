@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="1024"
+   height="1024"
+   sodipodi:docname="ebbl_building_ref_029.svg"
+   inkscape:export-filename="Z:\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebbl\ebbl_building_ref_029.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45"
+   enable-background="new">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3819">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop3821" />
+      <stop
+         style="stop-color:#666666;stop-opacity:0;"
+         offset="1"
+         id="stop3823" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="filter3024">
+      <feBlend
+         inkscape:collect="always"
+         mode="screen"
+         in2="BackgroundImage"
+         id="feBlend3026" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3819"
+       id="radialGradient3825"
+       cx="891.01471"
+       cy="576.19073"
+       fx="891.01471"
+       fy="576.19073"
+       r="18.206968"
+       gradientTransform="matrix(1,0,0,1.9044604,0,-521.1417)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="401.21593"
+     inkscape:cy="383.38128"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer5" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="BG"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.01894236;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3019"
+       width="1019.981"
+       height="1019.9811"
+       x="0.0094711483"
+       y="4.009491" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="TB"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <image
+       sodipodi:absref="H:\_From_BCK_copy\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebbl\ebbl_building_ref_029_TB.png"
+       xlink:href="ebbl_building_ref_029_TB.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="1024"
+       width="1024" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="TB2"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="H:\_From_BCK_copy\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebbl\ebbl_building_ref_029_TB2.png"
+       xlink:href="ebbl_building_ref_029_TB2.png"
+       width="1024"
+       height="1024"
+       id="image3027"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Drawing"
+     style="display:inline;filter:url(#filter3024)"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:0.15;fill:#aa4400;fill-opacity:1;stroke:none"
+       id="rect3022"
+       width="40"
+       height="40"
+       x="317.39709"
+       y="522.4007" />
+    <rect
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3028"
+       width="50.08287"
+       height="226.37459"
+       x="89.177353"
+       y="101.4735" />
+    <rect
+       y="101.4735"
+       x="289.17737"
+       height="226.37459"
+       width="50.08287"
+       id="rect3032"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3034"
+       width="50.08287"
+       height="226.37459"
+       x="489.17737"
+       y="101.4735" />
+    <rect
+       y="101.4735"
+       x="689.17737"
+       height="226.37459"
+       width="50.08287"
+       id="rect3036"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3038"
+       width="50.08287"
+       height="226.37459"
+       x="889.17737"
+       y="101.4735" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Light"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:0.6;fill:#550000;fill-opacity:1;stroke:none"
+       id="rect3041"
+       width="244.36795"
+       height="33.054695"
+       x="693.14697"
+       y="442.03702" />
+    <rect
+       style="opacity:0.2;fill:#1a1a1a;fill-opacity:1;stroke:none"
+       id="rect3877"
+       width="22"
+       height="30.5"
+       x="731"
+       y="443" />
+    <rect
+       y="443"
+       x="849"
+       height="30.5"
+       width="22"
+       id="rect3879"
+       style="opacity:0.2;fill:#1a1a1a;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="AO"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <image
+       sodipodi:absref="H:\_From_BCK_copy\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebbl\ebbl_building_ref_029_AO.png"
+       xlink:href="ebbl_building_ref_029_AO.png"
+       width="1024"
+       height="1024"
+       id="image3015"
+       x="0"
+       y="0" />
+  </g>
+</svg>

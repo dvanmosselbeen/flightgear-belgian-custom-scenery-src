@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="1024"
+   height="512"
+   sodipodi:docname="ebbl_brandweer.svg"
+   inkscape:export-filename="C:\Users\david\Documents\Git_Sources\flightgear-belgian-custom-scenery-src\Objects\Belgium Scenery\Airports\EBBL\ebbl_brandweer.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48"
+   enable-background="new">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       inkscape:collect="always"
+       id="filter2996">
+      <feBlend
+         inkscape:collect="always"
+         mode="screen"
+         in2="BackgroundImage"
+         id="feBlend2998" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview4"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.140625"
+     inkscape:cx="489.2552"
+     inkscape:cy="243.15937"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer9" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="BG"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3008"
+       width="1024"
+       height="512"
+       x="0"
+       y="1.7763568e-014" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="TB"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="C:\Users\david\Documents\Git_Sources\flightgear-belgian-custom-scenery-src\Objects\Belgium Scenery\Airports\EBBL\ebbl_brandweer_TB.png"
+       xlink:href="ebbl_brandweer_TB.png"
+       y="1.7053026e-13"
+       x="0"
+       id="image3018"
+       height="512"
+       width="1024" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Drawing"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer7"
+       inkscape:label="RoofPipes"
+       style="display:inline;opacity:0.4"
+       sodipodi:insensitive="true">
+      <rect
+         style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter2996)"
+         id="rect2988"
+         width="50"
+         height="219.27338"
+         x="60.313915"
+         y="8.1064377" />
+      <rect
+         y="8.1064377"
+         x="200.31392"
+         height="219.27338"
+         width="50"
+         id="rect2990"
+         style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter2996)" />
+      <rect
+         style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter2996)"
+         id="rect2992"
+         width="50"
+         height="219.27338"
+         x="340.3139"
+         y="8.1064377" />
+      <rect
+         y="8.1064377"
+         x="480.3139"
+         height="219.27338"
+         width="50"
+         id="rect2994"
+         style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter2996)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer9"
+       inkscape:label="Antena"
+       sodipodi:insensitive="true"
+       style="display:inline">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="rect3074"
+         width="20.821918"
+         height="13.80822"
+         x="863.56165"
+         y="63.561642" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="AO"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="C:\Users\david\Documents\Git_Sources\flightgear-belgian-custom-scenery-src\Objects\Belgium Scenery\Airports\EBBL\ebbl_brandweer_AO.png"
+       xlink:href="ebbl_brandweer_AO.png"
+       width="1024"
+       height="512"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="TexturingFix"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect3071"
+       width="190.24658"
+       height="59.178085"
+       x="586.95892"
+       y="3.0684917" />
+  </g>
+</svg>

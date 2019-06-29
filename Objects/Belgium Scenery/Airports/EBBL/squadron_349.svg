@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="1024"
+   height="1024"
+   sodipodi:docname="squadron_349.svg"
+   inkscape:export-filename="Z:\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebbl\squadron_349.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       inkscape:collect="always"
+       id="filter3802"
+       x="-1.8"
+       width="4.6"
+       y="-0.36"
+       height="1.72">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.5"
+         id="feGaussianBlur3804" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.65186406"
+     inkscape:cx="272.49928"
+     inkscape:cy="540.68967"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="BG"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3007"
+       width="1024"
+       height="1024"
+       x="0"
+       y="-3.0517578e-05" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="TB"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <image
+       sodipodi:absref="H:\_From_BCK_copy\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebbl\squadron_349_TB.png"
+       xlink:href="squadron_349_TB.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="1024"
+       width="1024" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="AO"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <image
+       sodipodi:absref="H:\_From_BCK_copy\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebbl\squadron_349_AO.png"
+       xlink:href="squadron_349_AO.png"
+       width="1024"
+       height="1024"
+       id="image3018"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Drawing"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:none"
+       id="rect3022"
+       width="250"
+       height="50"
+       x="363.72693"
+       y="1.792776" />
+    <rect
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3802)"
+       id="rect3024"
+       width="10"
+       height="50"
+       x="379.86441"
+       y="1.7930002"
+       transform="matrix(1,0,0,0.67407174,0,8.732596)" />
+    <rect
+       transform="matrix(1,0,0,0.67407174,40,8.732596)"
+       y="1.7930002"
+       x="379.86441"
+       height="50"
+       width="10"
+       id="rect3806"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3802)" />
+    <rect
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3802)"
+       id="rect3808"
+       width="10"
+       height="50"
+       x="379.86441"
+       y="1.7930002"
+       transform="matrix(1,0,0,0.67407174,80,8.732596)" />
+    <rect
+       transform="matrix(1,0,0,0.67407174,120,8.732596)"
+       y="1.7930002"
+       x="379.86441"
+       height="50"
+       width="10"
+       id="rect3810"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3802)" />
+    <rect
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3802)"
+       id="rect3812"
+       width="10"
+       height="50"
+       x="379.86441"
+       y="1.7930002"
+       transform="matrix(1,0,0,0.67407174,160,8.732596)" />
+    <rect
+       transform="matrix(1,0,0,0.67407174,200,8.732596)"
+       y="1.7930002"
+       x="379.86441"
+       height="50"
+       width="10"
+       id="rect3814"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3802)" />
+  </g>
+</svg>

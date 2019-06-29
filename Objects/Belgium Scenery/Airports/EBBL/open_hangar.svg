@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="1024"
+   height="512"
+   sodipodi:docname="open_hangar.svg"
+   inkscape:export-filename="Z:\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebbl\open_hangar.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   enable-background="new">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       inkscape:collect="always"
+       id="filter3829">
+      <feBlend
+         inkscape:collect="always"
+         mode="multiply"
+         in2="BackgroundImage"
+         id="feBlend3831" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="1.140625"
+     inkscape:cx="294.46304"
+     inkscape:cy="335.35422"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3014" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="BG"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3007"
+       width="1024"
+       height="512"
+       x="0"
+       y="1.4377388e-014" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="TB"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="H:\_From_BCK_copy\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebbl\open_hangar_TB.png"
+       xlink:href="open_hangar_TB.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="512"
+       width="1024" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer"
+     style="filter:url(#filter3829)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#3a5656;fill-opacity:1;stroke:none"
+       id="rect3055"
+       width="1024"
+       height="512"
+       x="0"
+       y="2.5340841e-014" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Drawing"
+     style="display:inline;opacity:0.3"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:0.8;fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect3010"
+       width="200"
+       height="30"
+       x="13.837736"
+       y="71.968407" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3012"
+       width="30"
+       height="226.31799"
+       x="31.712502"
+       y="107.73115" />
+    <rect
+       y="107.73115"
+       x="91.712502"
+       height="226.31799"
+       width="30"
+       id="rect3030"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3032"
+       width="30"
+       height="226.31799"
+       x="151.71249"
+       y="107.73115" />
+    <rect
+       y="107.73115"
+       x="211.71249"
+       height="226.31799"
+       width="30"
+       id="rect3034"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3036"
+       width="30"
+       height="226.31799"
+       x="271.71249"
+       y="107.73115" />
+    <rect
+       y="107.73115"
+       x="331.71249"
+       height="226.31799"
+       width="30"
+       id="rect3038"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3040"
+       width="30"
+       height="226.31799"
+       x="391.71249"
+       y="107.73115" />
+    <rect
+       y="107.73115"
+       x="451.71249"
+       height="226.31799"
+       width="30"
+       id="rect3042"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+  </g>
+</svg>
