@@ -16,9 +16,9 @@
    width="1024"
    height="1024"
    sodipodi:docname="ebsg_building_ref_001.svg"
-   inkscape:export-filename="Z:\GFX\blender\fgfs\sources_sceneries\belgium\_airports\ebsg\ebsg_building_ref_001.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="C:\Users\david\Documents\Git_Sources\flightgear-belgian-custom-scenery-src\Objects\Belgium Scenery\Airports\EBSG\ebsg_building_ref_001.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -67,13 +67,13 @@
      inkscape:window-height="1027"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.65186405"
-     inkscape:cx="143.66925"
-     inkscape:cy="522.42561"
+     inkscape:zoom="1.3037281"
+     inkscape:cx="201.62806"
+     inkscape:cy="776.3238"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer4" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -91,7 +91,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Texture Bake"
+     inkscape:label="TB"
      style="display:inline"
      sodipodi:insensitive="true">
     <image
@@ -105,8 +105,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="texture"
-     sodipodi:insensitive="true">
+     inkscape:label="Drawing"
+     style="display:inline">
     <rect
        style="fill:#ececec;fill-opacity:1;stroke:none"
        id="rect3031"
@@ -149,23 +149,24 @@
        height="140.43991"
        x="837.27063"
        y="-502.29205"
-       transform="matrix(0,1,-1,0,0,0)" />
+       transform="rotate(90)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="89.161545"
-       y="69.423706"
-       id="text3000"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.96947098px;line-height:0%;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.08078921"
+       x="82.505814"
+       y="75.032394"
+       id="text3000"
+       transform="scale(1.0807892,0.92524979)"><tspan
          sodipodi:role="line"
          id="tspan3002"
-         x="92.638107"
-         y="69.423706"
-         style="font-size:20px;line-height:1.25">AERODROME DE </tspan><tspan
+         x="84.40564"
+         y="75.032394"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.61578369px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';stroke-width:1.08078921">AERODROME DE </tspan><tspan
          sodipodi:role="line"
-         x="89.161545"
-         y="94.423706"
+         x="82.505814"
+         y="102.05212"
          id="tspan3004"
-         style="font-size:20px;line-height:1.25">St GHISLAIN</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.61578369px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';stroke-width:1.08078921">St GHISLAIN</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -218,28 +219,151 @@
          style="font-size:8px;line-height:1.25;font-family:sans-serif">Texture by David Van Mosselbeen</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       x="22.927147"
-       y="136.29031"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.54924107px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.87910342"
+       x="72.481133"
+       y="134.57031"
        id="text3027"
-       transform="scale(0.77886608,1.2839178)"><tspan
+       transform="scale(0.77886607,1.2839178)"><tspan
          sodipodi:role="line"
          id="tspan3029"
-         x="22.927147"
-         y="136.29031"
-         style="font-size:35.99381638px;line-height:1.25;font-family:sans-serif">CAFE</tspan></text>
+         x="72.481133"
+         y="134.57031"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.64228821px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;stroke-width:0.87910342">CAFE</tspan></text>
     <text
-       transform="scale(0.90811155,1.1011863)"
+       transform="scale(1.0881236,0.91901324)"
        id="text3033"
-       y="154.50478"
-       x="120.7185"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       y="185.13176"
+       x="186.20296"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.37872124px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.19822681"
        xml:space="preserve"><tspan
-         y="154.50478"
-         x="120.7185"
+         y="185.13176"
+         x="186.20296"
          id="tspan3035"
          sodipodi:role="line"
-         style="font-size:29.32448387px;line-height:1.25;font-family:sans-serif">L'AERODROME</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.13738251px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';text-align:center;text-anchor:middle;stroke-width:1.19822681">L'AERODROME</tspan></text>
+    <rect
+       y="205.89828"
+       x="6.5423727"
+       height="69.744102"
+       width="151.32205"
+       id="rect843"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.46422631" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.56905174px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46422631"
+       x="82.174385"
+       y="240.13583"
+       id="text847"><tspan
+         sodipodi:role="line"
+         id="tspan845"
+         x="82.174385"
+         y="240.13583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.71048355px;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;text-anchor:middle;stroke-width:0.46422631">FLIGHTGEAR</tspan></text>
+    <text
+       id="text851"
+       y="266.13251"
+       x="82.541901"
+       style="font-style:normal;font-weight:normal;font-size:18.56905174px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46422631"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33111572px;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;text-anchor:middle;fill:#4d4d4d;stroke-width:0.46422631"
+         y="266.13251"
+         x="82.541901"
+         id="tspan849"
+         sodipodi:role="line">www.flightgear.org</tspan></text>
+    <rect
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.46422631"
+       id="rect853"
+       width="151.32205"
+       height="69.744102"
+       x="166.54237"
+       y="205.89828" />
+    <text
+       id="text857"
+       y="240.13583"
+       x="242.17438"
+       style="font-style:normal;font-weight:normal;font-size:18.56905174px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46422631"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.71048355px;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;text-anchor:middle;stroke-width:0.46422631"
+         y="240.13583"
+         x="242.17438"
+         id="tspan855"
+         sodipodi:role="line">DEBIAN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.56905174px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46422631"
+       x="242.5419"
+       y="266.13251"
+       id="text861"><tspan
+         sodipodi:role="line"
+         id="tspan859"
+         x="242.5419"
+         y="266.13251"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33111572px;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;text-anchor:middle;fill:#4d4d4d;stroke-width:0.46422631">www.debian.org</tspan></text>
+    <rect
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.46422631"
+       id="rect863"
+       width="151.32205"
+       height="69.744102"
+       x="6.5423727"
+       y="285.89828" />
+    <text
+       id="text867"
+       y="320.13583"
+       x="82.174385"
+       style="font-style:normal;font-weight:normal;font-size:18.56905174px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46422631"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.71048355px;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;text-anchor:middle;stroke-width:0.46422631"
+         y="320.13583"
+         x="82.174385"
+         id="tspan865"
+         sodipodi:role="line">PYTHON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.56905174px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46422631"
+       x="82.541901"
+       y="346.13251"
+       id="text871"><tspan
+         sodipodi:role="line"
+         id="tspan869"
+         x="82.541901"
+         y="346.13251"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33111572px;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;text-anchor:middle;fill:#4d4d4d;stroke-width:0.46422631">www.python.org</tspan></text>
+    <rect
+       y="285.89828"
+       x="166.54237"
+       height="69.744102"
+       width="151.32205"
+       id="rect873"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.46422631" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.56905174px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46422631"
+       x="242.17438"
+       y="320.13583"
+       id="text877"><tspan
+         sodipodi:role="line"
+         id="tspan875"
+         x="242.17438"
+         y="320.13583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.71048355px;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;text-anchor:middle;stroke-width:0.46422631">BLENDER</tspan></text>
+    <text
+       id="text881"
+       y="346.13251"
+       x="242.5419"
+       style="font-style:normal;font-weight:normal;font-size:18.56905174px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46422631"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33111572px;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;text-anchor:middle;fill:#4d4d4d;stroke-width:0.46422631"
+         y="346.13251"
+         x="242.5419"
+         id="tspan879"
+         sodipodi:role="line">www.blender.org</tspan></text>
+    <rect
+       style="opacity:0.75;fill:none;fill-opacity:1;stroke:#800000;stroke-width:4.13522243;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect883"
+       width="295.32159"
+       height="44.702168"
+       x="18.613836"
+       y="135.01628" />
   </g>
   <g
      inkscape:groupmode="layer"
