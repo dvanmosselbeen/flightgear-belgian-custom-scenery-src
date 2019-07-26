@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="512"
+   viewBox="0 0 270.93333 135.46666"
+   version="1.1"
+   id="svg18"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ebbz_control_tower.svg"
+   inkscape:export-filename="C:\Users\david\Documents\Git_Sources\flightgear-belgian-custom-scenery-src\Objects\Belgium Scenery\Airports\EBBZ\ebbz_control_tower.png"
+   inkscape:export-xdpi="48.000004"
+   inkscape:export-ydpi="48.000004">
+  <defs
+     id="defs12">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient932">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop928" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:0;"
+         offset="1"
+         id="stop930" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient932"
+       id="radialGradient936"
+       cx="234.56973"
+       cy="111.50276"
+       fx="234.56973"
+       fy="111.50276"
+       r="11.521106"
+       gradientTransform="matrix(0.40868268,0,0,3.7925754,164.28013,-409.79638)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6238776"
+     inkscape:cx="1012.3398"
+     inkscape:cy="398.21663"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="TB"
+     transform="translate(0,-161.53336)"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <image
+       sodipodi:absref="C:\Users\david\Documents\Git_Sources\flightgear-belgian-custom-scenery-src\Objects\Belgium Scenery\Airports\EBBZ\ebbz_control_tower_TB.png"
+       xlink:href="ebbz_control_tower_TB.png"
+       width="270.93332"
+       height="135.46666"
+       preserveAspectRatio="none"
+       id="image29"
+       x="0"
+       y="161.53336" />
+  </g>
+  <g
+     inkscape:label="AO"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-161.53336)"
+     style="display:inline;opacity:1"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="C:\Users\david\Documents\Git_Sources\flightgear-belgian-custom-scenery-src\Objects\Belgium Scenery\Airports\EBBZ\ebbz_control_tower_AO.png"
+       xlink:href="ebbz_control_tower_AO.png"
+       width="270.93332"
+       height="135.46666"
+       preserveAspectRatio="none"
+       id="image40"
+       x="0"
+       y="161.53336" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Drawing"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#6c5d53;fill-opacity:1;stroke:none;stroke-width:0.54065311;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect872"
+       width="9.4169531"
+       height="18.457228"
+       x="255.43625"
+       y="3.8576343" />
+    <rect
+       y="3.8576343"
+       x="255.43625"
+       height="18.457228"
+       width="9.4169531"
+       id="rect911"
+       style="opacity:0.75;fill:url(#radialGradient936);fill-opacity:1;stroke:none;stroke-width:0.54065311;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       style="opacity:1;fill:#666666;stroke:none;stroke-width:0.27955309;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect44"
+       width="5"
+       height="5"
+       x="265.93332"
+       y="130.46667" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-114.25767"
+       y="269.96451"
+       id="text48"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan46"
+         x="-114.25767"
+         y="269.96451"
+         style="font-size:3.52777767px;fill:#ffffff;stroke-width:0.26458332">PROUDLY MADE BY DAVID VAN MOSSELBEEN FOR FLIGHTGEAR</tspan></text>
+    <image
+       y="1.2507055"
+       x="215.58582"
+       id="image58"
+       xlink:href="data:image/png;base64,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
+"
+       preserveAspectRatio="none"
+       height="39.6875"
+       width="39.6875" />
+    <rect
+       style="opacity:1;fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.32301354;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect65"
+       width="38.364487"
+       height="11.906153"
+       x="216.24733"
+       y="38.619297" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.72590351px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19314758"
+       x="209.56226"
+       y="49.460793"
+       id="text63"
+       transform="scale(1.0465778,0.95549514)"><tspan
+         sodipodi:role="line"
+         id="tspan61"
+         x="209.56226"
+         y="49.460793"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.19314758">OFFICE</tspan></text>
+    <rect
+       y="125.17501"
+       x="265.93332"
+       height="5"
+       width="5"
+       id="rect938"
+       style="opacity:1;fill:#808080;stroke:none;stroke-width:0.27955309;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       style="opacity:1;fill:#999999;stroke:none;stroke-width:0.27955309;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect940"
+       width="5"
+       height="5"
+       x="265.93332"
+       y="119.88335" />
+  </g>
+</svg>
