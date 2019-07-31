@@ -1,0 +1,26 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "Fence10m"
+loc 0 0 -0.06
+data 8
+Fence10m
+texture "metal_fence.png"
+texrep 1 1
+crease 179.000000
+numvert 4
+4.999363 1.8 0
+4.999363 0 -0
+-4.999363 0 -0
+-4.999363 1.8 0
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+0 4 0.999999403954
+3 0 0.999999940395
+2 0 0
+1 4 0
+kids 0
