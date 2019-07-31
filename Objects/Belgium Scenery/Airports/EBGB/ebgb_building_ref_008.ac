@@ -5,7 +5,7 @@ OBJECT world
 name "Blender_export__ebgb_building_ref_008.ac"
 kids 1
 OBJECT poly
-name "Hangar"
+name "Building"
 loc 0.0000000 1.0000000 0.0000000
 crease 1.0
 texture "ebgb_building_ref_008.png"
