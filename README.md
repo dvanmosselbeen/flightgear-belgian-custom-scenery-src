@@ -8,6 +8,9 @@ You can find more information on the dedicated wiki page for the "source" versio
 
 *Actually this repository doesn't contains **all** the source files yet. Almost all files are included in this repo and more is coming each day. So far all airport data and objects have been pushed. Missing only the source files of the buildings of the Brussels city. The issue is that many of the blend files where created with Blender version 2.4x and they need to be migrated to version 2.79. Idem with the Inkscape files. So atm i'm checking each file one at a time by hand, fixing up little migration glitches. This just suck, but that's life...*
 
+
+For more documentation, see the [Docs](Docs) directory.
+
 ### Application used to create this scenery
 
 We only used open source software and **FREE** resources to create this scenery. To contribute to this scenery, there's no requirements to use the same tools, even if it would help a lot.
